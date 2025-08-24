@@ -28,3 +28,7 @@ A key feature of this program is its ability to always present the most recent d
 Another important aspect is the clarity that visualization brings. Numbers in text format can often look confusing or overwhelming, but the moment they are displayed as a bar graph, the meaning becomes much easier to grasp. This makes the program useful for situations where updated data needs to be monitored and compared quickly.
 
 Overall, the program follows a clear sequence: connect to the API, collect the data, extract what is required, and display it as a bar graph. This simple but effective process turns raw data into meaningful visuals that can be read and understood in seconds. The project shows how live data can be transformed into clear and informative results through automation and visualization.
+
+OUTPUT :
+
+<img width="992" height="705" alt="Image" src="https://github.com/user-attachments/assets/98e8b2ff-e70e-4619-9313-5c70675e70fa" />
